@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+distutils
+setuptools
+
+# visualization
+matplotlib
+torchviz
+
+# For Text Classification
+torchtext
+torchdata
+portalocker
